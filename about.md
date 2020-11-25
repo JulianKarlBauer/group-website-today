@@ -1,7 +1,7 @@
 # About
 
 ## Project
-This reseach project is all about teaching you how to create websites with GitHub pages.
+{{ site.description }}
 
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
@@ -13,5 +13,5 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [team@my.research.org](mailto:team@my.research.org)
-- Twitter: [@my_research_project](https://twitter.com/my_research_project)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [{{ site.twitter }}]({{ site.twitter }})
