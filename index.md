@@ -1,6 +1,8 @@
 # {{site.title}}
 
 ## Description
-This project is all about teaching you how to create websites with GitHub Pages.
+{{site.description}}
 
 More details about the project are available from the [About page](about.md).
+
+Contact with [link to mail](mailto:{{site.email}})
